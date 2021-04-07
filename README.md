@@ -1,1 +1,2 @@
-# simple_board
+
+Laravelを使ったメッセージボードです。
